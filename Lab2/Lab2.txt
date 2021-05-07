@@ -1,1 +1,3 @@
-This is my lab2 implementation of TCP and UDP
+Lab 2 is to experiment with writing a real practical network program at application layer which
+accesses the services provided by the transport layer via sockets.
+
